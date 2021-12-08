@@ -1,4 +1,4 @@
-# Python screen text snip
+# Python script for snipping text from screen in Windows 
 
 ## Install
 
